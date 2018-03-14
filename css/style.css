@@ -1,0 +1,24 @@
+@import 'signin-style.css';
+
+/*
+ * General Style
+ */
+ .login-session{
+ 	font-weight:bold;
+ 	font-style: italic;
+ 	font-size: 1.1em;
+ 	color: #007bff;
+ }
+
+ .navbar .navbar-nav ul li{
+ 	float:left;
+ }
+
+/* Footer */
+
+ #footer {
+ 	background-color: #343a40;
+ 	margin:0;
+ 	padding-top:0px;
+ 	color:#fff;
+ }
